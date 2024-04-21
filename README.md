@@ -40,7 +40,7 @@ Or we can do git clone.
 
 ## Step 2: Obtain the TMDB Movies API Key and Firebase Configuration
 
-Before starting the website, you will need to obtain the TMDB Movies API key and Firebase configuration. Follow these steps to obtain them and add them to your `.env` file.
+Before starting the website, you will need to obtain the IMDB Movies API key from Rapid API website. Follow these steps to obtain them.
 
 ### ▶️ Get Rapid API Key 
 
