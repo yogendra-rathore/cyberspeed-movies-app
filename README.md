@@ -2,7 +2,7 @@
 CyberSpeed Movie App is a React Typescript based movie website that showcase top 100 movies rated by IMDB.Also allows users to search for movies by title, and bookmark their favorite movies. The website is designed to be user-friendly and visually appealing.
 <hr/>
 
-![background](<img width="1714" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/c62edb31-b9e3-4f27-876a-dec973a3edb0">
+<img width="1714" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/c62edb31-b9e3-4f27-876a-dec973a3edb0">
 )
 
 <hr/>
