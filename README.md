@@ -3,7 +3,19 @@ CyberSpeed Movie App is a React Typescript based movie website that showcase top
 <hr/>
 
 <img width="1714" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/c62edb31-b9e3-4f27-876a-dec973a3edb0">
-)
+
+BookMark Functionality:
+<img width="1715" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/fdddabbb-c70c-44c3-a035-ffdedd521b1d">
+
+Seacrh Functionality:
+<img width="1565" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/e9cd2fc9-ebfc-4edb-8e8b-26874ef6a987">
+
+Movie Details:
+<img width="1559" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/03c55c6e-3027-447d-a221-30985c9885fc">
+
+
+Mobile View:
+<img width="1123" alt="image" src="https://github.com/yogendra-rathore/cyberspeed-movies-app/assets/140323526/cd45416d-d996-42a2-9e6b-3573938ed3e4">
 
 <hr/>
 
