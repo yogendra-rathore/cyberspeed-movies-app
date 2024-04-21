@@ -61,7 +61,7 @@ npm start
 ```
 This will start the application. Open a web browser and navigate to http://localhost:3000 to access the website.
 
-Note: Ensure that you have carefully added the TMDB API key and Firebase authentication configuration to your .env file. If the .env file is not working, add all the API keys and configuration manually.
+Note: Ensure that you have carefully added the IMDB API key in the mentioned File as that API has current rate limit set to 100 request/month.
 
 <hr/>
 
